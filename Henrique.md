@@ -19,7 +19,7 @@
 * **Criar Cadastro de Usuários:** Interface para registro de novos funcionários.
 * **Recuperar Senha:** Planejamento do fluxo de segurança para acesso de funcionários.
 * **Cadastrar Clientes:** Formulário para registro de informações de contato e fidelidade.
-* **Arquivar Cliente:** 
+* **Arquivar Cliente:** Implementação da função de desativar cadastros antigos sem perder o histórico de compras.
 * **Adicionar Produtos a venda:** 
  
 
