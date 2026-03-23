@@ -20,5 +20,6 @@
 * **Recuperar Senha:** 
 * **Cadastrar Clientes:** 
 * **Arquivar Cliente:** 
+* **Adicionar Produtos a venda:** 
  
 
