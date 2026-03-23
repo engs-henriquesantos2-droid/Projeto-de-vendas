@@ -17,7 +17,7 @@
 # Terceira Sprint 
 
 * **Criar Cadastro de Usuários:** Interface para registro de novos funcionários.
-* **Recuperar Senha:** 
+* **Recuperar Senha:** Planejamento do fluxo de segurança para acesso de funcionários.
 * **Cadastrar Clientes:** Formulário para registro de informações de contato e fidelidade.
 * **Arquivar Cliente:** 
 * **Adicionar Produtos a venda:** 
