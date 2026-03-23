@@ -19,5 +19,6 @@
 * **Criar Cadastro de Usuários:** Interface para registro de novos funcionários.
 * **Recuperar Senha:** 
 * **Cadastrar Clientes:** 
+* **Arquivar Cliente:** 
  
 
